@@ -1,11 +1,19 @@
-# Fatigue-analysis-Lattices 2d
 
 A progressive failure fatigue analysis of lattices
 
-The Python 3 code uses a progressive failure approach to analyze 2D lattices.
+# Fatigue-analysis-Lattices 2d
+The Python 3 code uses a progressive failure approach to analyze 2D hexagonal lattices.
 Every lattice element is discretized as beam structure.
 The FE calculation uses the directory Anastruct by https://github.com/ritchie46/anaStruct/blob/master/anastruct/basic.py
-to evaluate displacements of bem elements.
+to evaluate displacements of beam elements.
+
+
+# Fatigue-analysis-Lattices 3d
+The Python 3 code uses a progressive failure approach to analyze 3D lattices diamond.
+Every lattice element is discretized as beam structure.
+The FE calculation uses the directory Pynite by https://github.com/JWock82/PyNite
+to evaluate displacements of beam elements.
 
 The program makes iterative fatigue calculations on lattice structure removing minimum life elements.
+Further details can be found in the pdf description file
 
