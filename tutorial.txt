@@ -1,18 +1,15 @@
 
-   compiler used is Spyder (Pyhon 3.7)
-   
+from Spyder (Pyhon 3.7)
 
 2D module
   
    Uniform cross sectional rectangular areas: first run 
-
                                     run (2d hexagonal lattices/examples/uniformcrosssection.py)
 
 3D module
   
-   Uniformly distributed tension fatigue:
-                                    
-                                    run (3d/setup.py)
+   Uniformly distributed tension fatigue:                                    
+                                    run (3D diamond lattice/setup.py)
                                     run (3D diamond lattice/Examples/3dfatigue.py)
    
 
