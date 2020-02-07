@@ -1,5 +1,5 @@
 
-from Spyder (Pyhon 3.7)
+suggested compiler Spyder (Pyhon 3.7)
 
 2D module
   
