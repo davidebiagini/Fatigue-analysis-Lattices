@@ -3,8 +3,8 @@ from Spyder (Pyhon 3.7)
 
 2D module
   
-   Uniform cross sectional rectangular areas: first run 
-                                    run (2d hexagonal lattices/examples/uniformcrosssection.py)
+   FUNCTIONALLY GRADED cross sectional rectangular areas: first run 
+                                    run (2d hexagonal lattices/functionally_graded.py)
 
 3D module
   
